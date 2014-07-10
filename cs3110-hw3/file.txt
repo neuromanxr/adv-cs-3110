@@ -1,0 +1,12 @@
+Duck, Donald	45	3.5	60
+Mouse, Mickey	35	6.5	55
+Brown, Charlie	35	3.0	20
+Oyle, Olive	40	4.5	60
+Man, He		45	7.5	20
+Ra, She		40	3.5	20
+Jetson, George	45	3.5	55
+Starr, Brenda	35	8.4	60
+Woman, Wonder	40	3.5	55
+Jets, Green	45	13.5	55
+Barr, Jimmy	35	9.0	60
+Evans, Robert	40	8.0	55

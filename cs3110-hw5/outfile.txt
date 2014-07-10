@@ -1,0 +1,21 @@
+Account Info: 
+Name: Sally Anderson
+SSN: 256252121
+Account Number: 1005820
+Account Type: Checking
+Account Balance: 10212.5
+
+Account Info: 
+Name: Thomas Lee
+SSN: 652521212
+Account Number: 1005821
+Account Type: Savings
+Account Balance: 9523.25
+
+Account Info: 
+Name: George Lopez
+SSN: 121252652
+Account Number: 1005822
+Account Type: CD
+Account Balance: 26545.8
+

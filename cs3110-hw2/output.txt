@@ -1,0 +1,22 @@
+Enter the number of automobile accidents for: Bronx
+541
+Enter the number of automobile accidents for: Queens
+-654
+That is not a valid input (zero or greater is acceptable) Try again:
+321
+Enter the number of automobile accidents for: Brooklyn
+-741
+That is not a valid input (zero or greater is acceptable) Try again:
+746
+Enter the number of automobile accidents for: Staten Island
+345
+Enter the number of automobile accidents for: Manhattan
+742
+Bronx accidents: 541
+Queens accidents: 321
+Brooklyn accidents: 746
+Staten Island accidents: 345
+Manhattan accidents: 742
+The borough with the fewest accidents is: Queens with: 321 accidents.
+Process returned 0 (0x0)   execution time : 76.362 s
+Press any key to continue.

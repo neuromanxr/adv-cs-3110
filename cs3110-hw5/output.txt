@@ -1,0 +1,283 @@
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: n
+New Account
+Enter a new Account Number: 1005823
+Account Number: 1005823
+Enter First Name: Kelvin
+Enter Last Name: Lee
+Enter Social Security Number: 123456789
+Enter Account Type: 1
+Checking
+Enter Initial Deposit: 5000
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: b
+Balance Inquiry
+Enter Account Number: 1005823
+Your balance is: 5000
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: w
+Withdrawal
+Enter Account Number: 1005823
+How much do you want to withdraw? : 1000
+Withdrawing: 1000 dollars
+New Balance: 4000
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: i
+Account Info
+Enter Social Security Number: 123456789
+Account Found.
+Account Info:
+Name: Kelvin Lee
+SSN: 123456789
+Account Number: 1005823
+Account Type: Checking
+Account Balance: 4000
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: d
+Deposit
+Enter Account Number: 1005821
+How much do you want to deposit? : 3000
+Depositing: 3000 dollars
+New Balance: 12523.2
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: w
+Withdrawal
+Enter Account Number: 1005820
+How much do you want to withdraw? : 15000
+Insufficient funds.
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: b
+Balance Inquiry
+Enter Account Number: 1005821
+Your balance is: 12523.2
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: i
+Account Info
+Enter Social Security Number: 1005820
+Account SSN: 1005820 doesn't exist.
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: i
+Account Info
+Enter Social Security Number: 256252121
+Account Found.
+Account Info:
+Name: Sally Anderson
+SSN: 256252121
+Account Number: 1005820
+Account Type: Checking
+Account Balance: 10212.5
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: c
+Close Account
+Enter Account Number:
+1005823
+There is a non-zero balance in Account Number: 1005823
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: b
+Balance Inquiry
+Enter Account Number: 1005823
+Your balance is: 4000
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: n
+New Account
+Enter a new Account Number: 1005824
+Account Number: 1005824
+Enter First Name: Trevor
+Enter Last Name: Reese
+Enter Social Security Number: 123225555
+Enter Account Type: 2
+Savings
+Enter Initial Deposit: 10000
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: i
+Account Info
+Enter Social Security Number: 123225555
+Account Found.
+Account Info:
+Name: Trevor Reese
+SSN: 123225555
+Account Number: 1005824
+Account Type: Savings
+Account Balance: 10000
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: w
+Withdrawal
+Enter Account Number: 1005824
+How much do you want to withdraw? : 5000
+Withdrawing: 5000 dollars
+New Balance: 5000
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: c
+Close Account
+Enter Account Number:
+1005823
+There is a non-zero balance in Account Number: 1005823
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: w
+Withdrawal
+Enter Account Number: 1005823
+How much do you want to withdraw? : 4000
+Withdrawing: 4000 dollars
+New Balance: 0
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: w
+Withdrawal
+Enter Account Number: 1005824
+How much do you want to withdraw? : 5000
+Withdrawing: 5000 dollars
+New Balance: 0
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: c
+Close Account
+Enter Account Number:
+1005824
+Closing Account: 1005824
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: b
+Balance Inquiry
+Enter Account Number: 1005824
+Account Number: 1005824 doesn't exist.
+
+MENU
+W) Withdrawal
+D) Deposit
+N) New Account
+B) Balance
+I) Account Info
+C) Close Account
+Enter choice: q
+
+Process returned 0 (0x0)   execution time : 1193.314 s
+Press any key to continue.

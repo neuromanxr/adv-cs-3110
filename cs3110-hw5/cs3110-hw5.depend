@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1398989121 source:c:\temp\beginning_programming-cpp\cs3110-hw5\bankaccount.cpp
+	"bankAccount.h"
+	<string>
+	<fstream>
+
+1398987442 source:c:\temp\beginning_programming-cpp\cs3110-hw5\main.cpp
+	<iostream>
+	"bankAccount.h"
+
+1398990956 c:\temp\beginning_programming-cpp\cs3110-hw5\bankaccount.h
+	<string>
+	<iostream>
+

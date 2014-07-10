@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1399322392 source:c:\temp\beginning_programming-cpp\cs3110-hw6\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+

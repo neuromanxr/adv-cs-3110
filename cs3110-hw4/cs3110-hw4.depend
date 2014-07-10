@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1398198072 source:c:\temp\beginning_programming-cpp\cs3110-hw4\booktype.cpp
+	<iostream>
+	<string>
+	"bookType.h"
+
+1398197989 c:\temp\beginning_programming-cpp\cs3110-hw4\booktype.h
+	<string>
+
+1398198615 source:c:\temp\beginning_programming-cpp\cs3110-hw4\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	"bookType.h"
+	"memberType.h"
+
+1398054629 source:c:\temp\beginning_programming-cpp\cs3110-hw4\membertype.cpp
+	<iostream>
+	<string>
+	"memberType.h"
+
+1398054672 c:\temp\beginning_programming-cpp\cs3110-hw4\membertype.h
+	<string>
+

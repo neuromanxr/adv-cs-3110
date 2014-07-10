@@ -1,0 +1,1 @@
+i am not here. Please return your package. Deliver it to the neighbor. Earlier in this chapter the concept of fields and records was introduced. A field is an individual piece of data pertaining to a single item. A record is made up of fields and is a complete set of data about a single item.
